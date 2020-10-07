@@ -1,5 +1,5 @@
 # shipping_mod for Opencart Version 3.0.3.6
-First insert into the database the datable called "".
+First insert into the database the datable called "shippping_zones".
 Then migrate data from zone (ID and NAME) into the new datatable, for each zone, insert TWO records in the new table, one for delivery in 24h and the other for the delivery in 48h.
 
 Example:
